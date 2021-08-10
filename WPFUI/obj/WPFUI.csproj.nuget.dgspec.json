@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domoj\\OneDrive\\Documents\\Projects\\C# Simple RPG\\SOSCSRPG\\WPFUI\\WPFUI.csproj": {}
+    "C:\\Users\\domoj\\OneDrive\\Documents\\Projects\\C# Simple RPG\\WPFUI\\WPFUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domoj\\OneDrive\\Documents\\Projects\\C# Simple RPG\\SOSCSRPG\\WPFUI\\WPFUI.csproj": {
+    "C:\\Users\\domoj\\OneDrive\\Documents\\Projects\\C# Simple RPG\\WPFUI\\WPFUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domoj\\OneDrive\\Documents\\Projects\\C# Simple RPG\\SOSCSRPG\\WPFUI\\WPFUI.csproj",
+        "projectUniqueName": "C:\\Users\\domoj\\OneDrive\\Documents\\Projects\\C# Simple RPG\\WPFUI\\WPFUI.csproj",
         "projectName": "WPFUI",
-        "projectPath": "C:\\Users\\domoj\\OneDrive\\Documents\\Projects\\C# Simple RPG\\SOSCSRPG\\WPFUI\\WPFUI.csproj",
+        "projectPath": "C:\\Users\\domoj\\OneDrive\\Documents\\Projects\\C# Simple RPG\\WPFUI\\WPFUI.csproj",
         "packagesPath": "C:\\Users\\domoj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domoj\\OneDrive\\Documents\\Projects\\C# Simple RPG\\SOSCSRPG\\WPFUI\\obj\\",
+        "outputPath": "C:\\Users\\domoj\\OneDrive\\Documents\\Projects\\C# Simple RPG\\WPFUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\domoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
